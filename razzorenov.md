@@ -6,3 +6,17 @@
 
 ## Лекция 2
 
+## Работа с ветками/branch
+
+1. Создать
+** git branch + enter title new branch (come up with) **
+
+2. Переключение между ветками
+** git checkout + name branch**
+
+3. Объединить
+**git merge + name branch**
+
+4. Удалить
+**git branch -d indicate name branch**
+
